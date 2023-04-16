@@ -1,6 +1,8 @@
 # STM_shorttext
+Here provides the code and data for the paper of Concentric 49:1, scheduled to be published in June 2023.:
 Incorporating structural topic modeling into short text analysis
-#Introduction
+
+# Introduction
 The past few decades have seen the rapid development of topic modeling.
 So far, research has been more concerned with determining the ideal
 number of topics or meaningful topic clustering words than with applying
