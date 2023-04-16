@@ -1,7 +1,7 @@
 # STM_shorttext
 Here provides the codes and data for the paper of Concentric 49:1, scheduled to be published in June 2023.:
 Incorporating structural topic modeling into short text analysis
-Both the R and Python codes can be used with colab. 
+
 
 # Introduction
 The past few decades have seen the rapid development of topic modeling.
